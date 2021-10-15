@@ -10,7 +10,7 @@
           * * *
             * *
               *
-2.    The number of rows is entered by the user"
+2.    Write a program to print above pattern but accept the number of rows from the user.
 3.    Write a menu-driven program to implement a calculator. The user should have the option of performing multiple calculations without having to restart the program
 4.    Write a program to print the first N Armstrong numbers
 5.    Write a program to print all palindrome numbers from 1 to N
